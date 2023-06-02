@@ -1,3 +1,3 @@
 # BLOG WEBSITE
 
-### Simple blog website with basic CRUD operations
+### Simple blog website with basic CRUD operations.
